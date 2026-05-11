@@ -3,3 +3,7 @@
 
 class anak;
 
+//membuat class ibu pada file header ibu.h
+class Ibu {
+public:
+  
