@@ -3,3 +3,8 @@
 //membuat class manusia di file header manusia.h
 class Manusia {
 public:
+    //membuat member variabel class manusia
+    string name;
+    Jantung varJantung;
+
+    
