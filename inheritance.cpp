@@ -17,3 +17,10 @@ public:
         cout << "Orang dihapus\n" << endl;
     }
 
+    //pembuatan function jumlah
+    int jumlah(int a, int b) {
+        return a + b;
+    }
+
+};
+
